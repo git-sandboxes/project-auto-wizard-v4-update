@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-16T05:22:10Z",
+    "currentVersion": "0.1.0",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": 1,
+      "raw_summary": "### ✨ Features\n- 업데이트 후 릴리스 확인\n\n### 🔧 Changes\n- project-auto-wizard 0.17.0으로 업데이트",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "업데이트 후 릴리스 확인"
+          ]
+        },
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "project-auto-wizard 0.17.0으로 업데이트"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
